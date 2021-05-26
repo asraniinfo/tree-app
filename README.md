@@ -29,8 +29,7 @@ We need two HTTP APIs that will serve the two basic operations:
    a) node identification b) who is the parent node c) who is the root node d) the height of the node. In the above
    example,height(root) = 0 and height(a) == 1.
 2) We can only have docker and docker-compose on our machines, so your server needs to be run using them.
-3) Make a simple UI for this challenge. If you feel adventurous you can use our UI components (
-   ​http://ui.tradeshift.com​ )
+3) Make a simple UI for this challenge. 
 
 ## Installation
 
